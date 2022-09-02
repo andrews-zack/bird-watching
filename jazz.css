@@ -139,3 +139,9 @@ button {
     border: 2px;
     border-color: black;
 }
+aside button {
+    border-radius: 6px;
+    align-items: center;
+    justify-content: center;
+    margin: 2px 0px 2px 0px;
+}
