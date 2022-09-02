@@ -71,9 +71,6 @@ header img {
     height: 60px;
     padding-top: 20.15px;
 }
-nav img {
-    background-color: white;
-}
 nav {
     height: 50px;
     flex: 100%;
@@ -124,4 +121,9 @@ aside img {
 }
 footer {
     margin-top: 10px;
+}
+.logo {
+    background-color: white;
+    height: 60px;
+    width: 100px;
 }
