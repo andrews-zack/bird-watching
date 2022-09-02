@@ -6,7 +6,7 @@ html, body {
 }
 html {
     font-size: 10px;
-    background-color: #A6DBCC;
+    background-color: #D3D3D3;
 }
 body {
     width: 70%;
@@ -52,8 +52,14 @@ body > * {
     background-color: red;
     padding: 1%;
 }
-main, header, nav, article, aside, footer, section {
+main {
     background-color: #80A89D;
+    margin: 10px, 10px, 10px, 10px;
+    padding: 1%;
+}
+header, nav, article, aside, footer, section {
+    background-color: #A6DBCC;
+    margin: 10px, 10px, 10px, 10px;
     padding: 1%;
 }
 h1 {
@@ -98,6 +104,7 @@ main {
 }
 article, section {
     flex: 4;
+
 }
 aside {
     flex: 1;
