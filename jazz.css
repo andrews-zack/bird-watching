@@ -71,6 +71,9 @@ header img {
     height: 60px;
     padding-top: 20.15px;
 }
+nav img {
+    background-color: white;
+}
 nav {
     height: 50px;
     flex: 100%;
