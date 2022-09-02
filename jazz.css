@@ -129,6 +129,7 @@ footer {
     height: 60px;
     width: 100px;
     cursor: pointer;
+    align-items: center;
 }
 button {
     background-color: #2A5C4E;
