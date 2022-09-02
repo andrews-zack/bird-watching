@@ -94,7 +94,7 @@ nav a, nav span {
     line-height: 1.7;
     text-transform: uppercase;
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 /* || Main Layout */
@@ -117,7 +117,7 @@ aside a {
     width: 50%;
 }
 aside img {
-    max-width: 100%;
+    max-width: 75%;
     display: grid;
 }
 footer {
@@ -127,4 +127,11 @@ footer {
     background-color: white;
     height: 60px;
     width: 100px;
+    cursor: pointer;
+}
+button {
+    background-color: #2A5C4E;
+    border-radius: 6px;
+    border: 2px;
+    border-color: black;
 }
