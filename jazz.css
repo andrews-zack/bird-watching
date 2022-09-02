@@ -118,6 +118,7 @@ aside a {
 }
 aside img {
     max-width: 100%;
+    display: inline-flex;
 }
 footer {
     margin-top: 10px;
